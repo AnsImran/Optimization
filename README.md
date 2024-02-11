@@ -1,4 +1,4 @@
-## Click on the headings below to see relevant jupyter notebooks.
+## Click on the headings below to see my relevant jupyter notebooks.
 
 #### This repository is still under construction.
 

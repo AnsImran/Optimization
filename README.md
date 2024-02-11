@@ -1,3 +1,5 @@
+## Click on the headings below to see relevant jupyter notebooks.
+
 #### This repository is still under construction.
 
 #### Initially, I am compiling my works (Jupyter notebooks) completed during my studies in Physics (Bachelors / Masters) that are relevant to optimization.
